@@ -53,8 +53,9 @@ I was able to find a secondhand T Series processor.  T Series is Intel's attempt
 This passive cooler should be sufficient for a low tdp quad core, however I am not 100% sure I will not need an active cooler.  Will update depending on my temps. 
 </p>
 <h3> Choosing A Motherboard: </h3> 
-<h4> My Pick: (10.50$ USD) </h4>
-This passive cooler should be sufficient for a low tdp quad core, however I am not 100% sure I will not need an active cooler.  Will update depending on my temps. 
+<h4> My Pick: ASRock IMB-1214 Mini ITX Industrial Motherboard (90$ USD) </h4>
+Generally, Mini ITX Motherboards have far better consumption than any ATX variant.  In the perfect world, I would suggest always going with a non gaming mini ITX, however, due to the market for home server builds, it can be very difficult to find boards with 
+sufficient IO for a decent price. 
 </p>
 
 
