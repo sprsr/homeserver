@@ -36,13 +36,14 @@ Write about 1-2 paragraphs describing the purpose of your project.
 
 ## 🏁 Hardware <a name = "hardware"></a>
 List of Hardware: <br>
+<p align="center">
 <h3> CPU: Intel i3 9100T (~40$ USD) </h3> <br>
 </t> Intel LGA 1151 Chips are a good balance of efficiency while performant.  Unless you plan to use a GPU in your system, make sure to avoid F Series Chips. <br>
 The intention is to utilize Quick Sync Video for Media Streaming transcoding. Any Intel Series 7, 8, or 9 chip should be sufficiently powerful for most needs. <br><br>
 - 7th Gen: VP9 8-Bit and 10-bit decoding, H.265/HEVC 8-bit and 10-bit decoding and encoding acceleration with 4:2:2 and 4:4:4 chroma subsampling, HDR10 Tone Mapping, and Open Source Media Shaders. <br><br>
 - 8th Gen: VP9 12-bit & 12-bit 4:4:4 hardware decoding and HEVC 12-bit 4:2:0, 4:2:2 and 4:4:4 hardware decoding. Gen12 Xe will also support native AV1 decode, which includes 10-bit 4:2:0 16K stills and 10-bit 4:2:0 8K, 4K and 2K video. <br><br>
 - 9th Gen: Intel Arc Alchemist (discrete GPUs) adds 8K 10-bit AV1 hardware encoding. <br><br>
-
+</p>
 
 ### Prerequisites
 What things you need to install the software and how to install them.
