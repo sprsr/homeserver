@@ -35,8 +35,11 @@
 Write about 1-2 paragraphs describing the purpose of your project.
 
 ## 🏁 Hardware <a name = "hardware"></a>
-List of Hardware: 
-<t> + CPU: Intel i3 9100T (~40$ USD) 
+List of Hardware: <br>
+<h3> CPU: Intel i3 9100T (~40$ USD) </h3> <br>
+</t> Intel LGA 1151 Chips are a good balance of efficiency while performant.  Unless you plan to use a GPU in your system, make sure to avoid F Series Chips. <br>
+The intention is to utilize Quick Sync Video for Media Streaming transcoding. Any Intel Series 7, 8, or 9 chip should be sufficiently powerful for most needs. 
+
 
 ### Prerequisites
 What things you need to install the software and how to install them.
