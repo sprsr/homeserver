@@ -43,7 +43,10 @@ The intention is to utilize Quick Sync Video for Media Streaming transcoding. An
 - 7th Gen: VP9 8-Bit and 10-bit decoding, H.265/HEVC 8-bit and 10-bit decoding and encoding acceleration with 4:2:2 and 4:4:4 chroma subsampling, HDR10 Tone Mapping, and Open Source Media Shaders. <br><br>
 - 8th Gen: VP9 12-bit & 12-bit 4:4:4 hardware decoding and HEVC 12-bit 4:2:0, 4:2:2 and 4:4:4 hardware decoding. Gen12 Xe will also support native AV1 decode, which includes 10-bit 4:2:0 16K stills and 10-bit 4:2:0 8K, 4K and 2K video. <br><br>
 - 9th Gen: Intel Arc Alchemist (discrete GPUs) adds 8K 10-bit AV1 hardware encoding. <br><br>
+I was able to find a secondhand T Series processor.  T Series is Intel's attempt at 'low-power desktop processors'.  However, these chips simply have a limited TDP.  This will rarely affect power consumption in our usecase, and likely never affect our idle consumption, however it can provide some peace of mind knowing your chips TDP when under load. I reccomend to use what ever Intel Gen 7-9 Chip you can find for a good price on Ebay. It is debatable whether Quad Core i3 chips have better idle consumption than other chips of the same generation, and even some of the most efficient machines recorded have been sporting i5 chips. 
 </p>
+
+https://docs-google-com.translate.goog/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp&_x_tr_hist=true#gid=0
 
 ### Prerequisites
 What things you need to install the software and how to install them.
