@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">My Efficiency Based Home Server</h3>
 
 <div align="center">
 
@@ -16,13 +16,13 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Documentation on my latest homeserver hardware and software stack. 
     <br> 
 </p>
 
 ## 📝 Table of Contents
 - [About](#about)
-- [Getting Started](#getting_started)
+- [Hardware](#hardware)
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
@@ -34,7 +34,7 @@
 ## 🧐 About <a name = "about"></a>
 Write about 1-2 paragraphs describing the purpose of your project.
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+## 🏁 Hardware <a name = "hardware"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
