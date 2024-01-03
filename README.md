@@ -50,7 +50,11 @@ I was able to find a secondhand T Series processor.  T Series is Intel's attempt
 <p align="center">
 <h3> Choosing A CPU Cooler: </h3> 
 <h4> My Pick: Supermicro SNK-P0046P (10.50$ USD) </h4>
-This passive cooler should be sufficient for a low tdp quad core, however I am not 100% sure I will not need an active cooler
+This passive cooler should be sufficient for a low tdp quad core, however I am not 100% sure I will not need an active cooler.  Will update depending on my temps. 
+</p>
+<h3> Choosing A Motherboard: </h3> 
+<h4> My Pick: (10.50$ USD) </h4>
+This passive cooler should be sufficient for a low tdp quad core, however I am not 100% sure I will not need an active cooler.  Will update depending on my temps. 
 </p>
 
 
