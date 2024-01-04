@@ -59,7 +59,8 @@ sufficient IO for a decent price. I searched for a C246 chipset mini ITX for wee
 If budget is non existant to you, the ideal motherboard would probably be a Fujitsu D36XXB series board that supports ECC.  These boards can have <5W idle consumption while supporting 6 sata ports.  However, due to enthusiasts you will struggle to find one of these boards alltogether, and will likely pay north of $300 for a 5+ year old cheap motherboard.  Avoid any gaming motherboards, as they typically have cutting edge features that consume more power. 
 <h3> Choosing Memory: </h3> 
 <h4> My Pick: A-Tech 32 GB DDR4 2666 MHz Laptop SO-DIMM RAM  (50$ USD) </h4>
-Ram does not play much of a role in Power Consumption thankfully, so feel free to choose whatever you can find for cheapest. My Industrial Motherboard supports 64GB of 2666 MHz SO-DIMM Ram, so I chose a single stick for potential future upgrades.  The services I will run 24/7 will consume less than 8GB at max load, leaving plenty of free ram for future additions and workstation use. 
+Ram does not play much of a role in Power Consumption thankfully, so feel free to choose whatever you can find for cheapest. My Industrial Motherboard supports 64GB of 2666 MHz SO-DIMM Ram, so I chose a single stick for potential future upgrades.  The services I will run 24/7 will consume less than 8GB at max load, leaving plenty of free ram for future additions and workstation use. If you plan on sticking with the spirit of my build, focused in efficiency, it is best to avoid any RGB gaming ram to save a watt or two.
+  
 </p>
 </p>
 
