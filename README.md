@@ -60,7 +60,9 @@ If budget is non existant to you, the ideal motherboard would probably be a Fuji
 <h3> Choosing Memory: </h3> 
 <h4> My Pick: A-Tech 32 GB DDR4 2666 MHz Laptop SO-DIMM RAM  (50$ USD) </h4>
 Ram does not play much of a role in Power Consumption thankfully, so feel free to choose whatever you can find for cheapest. My Industrial Motherboard supports 64GB of 2666 MHz SO-DIMM Ram, so I chose a single stick for potential future upgrades.  The services I will run 24/7 will consume less than 8GB at max load, leaving plenty of free ram for future additions and workstation use. If you plan on sticking with the spirit of my build, focused in efficiency, it is best to avoid any RGB gaming ram to save a watt or two.
-  
+<h3> Choosing a Power Supply: </h3> 
+<h4> My Pick: EVGA SuperNova 550 G2 80+ ECO Mode PSU  (49$ USD) </h4>
+For absolute best efficiency, it is best to use a PicoPSU.  I reccomend sticking with the three official models of PicoPSU (80W, 90W, 160W). My ARM server cluster ran on a 160W PicoPSU with 4 M.2 Drives and Three Sata Drives with no issues.  Using a Standard ATX Power Supply, we will see less efficiency at idle.
 </p>
 </p>
 
