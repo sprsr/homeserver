@@ -69,8 +69,8 @@ Find whatever case fits your budget and needs, as there is no need to worry abou
 This case is quite expensive when compared to ebay finds, but planning to run my system with a passive cpu cooler so I want to ensure good airflow with excellent drive support. 
 </p>
 <h3> Choosing Drives: </h3> 
-<h4> My Pick: 1TB Western Digital  Single Seagate 10TB 3.5  (~70$ USD) </h4>
-Too many home server builders load their system up with 
+<h4> My Pick: 1TB Western Digital SN730 (~$47)  Single Seagate 10TB 3.5  (~$70 USD) </h4>
+Too many home server builders load their system up with drives as soon as they build.  
 </p>
 </p>
 
