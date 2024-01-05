@@ -65,8 +65,8 @@ Ram does not play much of a role in Power Consumption thankfully, so feel free t
 For absolute best efficiency, it is best to use a PicoPSU.  I reccomend sticking with the three official models of PicoPSU (80W, 90W, 160W). My ARM server cluster ran on a 160W PicoPSU with 4 M.2 Drives and Three Sata Drives with no issues.  Using a Standard ATX Power Supply, we will see less efficiency at idle.  Even Gold rated 80+ efficiency ATX PSUs such as my selection are usually only at 70% efficiency in the best case scenario at 10% load.  The 80+ efficiency rating is only relevant above 20% load.  My choice to chose an ATX is because of my large case selection, future proofing for a large amount of disc drives, and somewhat experimental.  I may swap the ATX out with a PSU if my results are less than desireable. 
 <h3> Choosing a Case: </h3> 
 <h4> My Pick: Fractal Node 804  (100$ USD) </h4>
-Find whatever case fits your budget and needs.  After running barebaones with no case for over a year on my home server cluster, I decided on the Fracal Node 804.  This is an old cube case with support for 10 3.5 drives and 2 2.5 drives. 
-This case is quite expensive when compared to ebay finds, but planning to run my system with a passive cpu cooler 
+Find whatever case fits your budget and needs, as there is no need to worry about power consumption (obviously)  After running barebaones with no case for over a year on my home server cluster, I decided on the Fracal Node 804.  This is an old cube case with support for 10 3.5 drives and 2 2.5 drives. 
+This case is quite expensive when compared to ebay finds, but planning to run my system with a passive cpu cooler so I want to ensure good airflow with excellent drive support. 
 </p>
 </p>
 
