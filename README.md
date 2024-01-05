@@ -23,11 +23,8 @@
 ## 📝 Table of Contents
 - [About](#about)
 - [Hardware](#hardware)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
+- [OS](#deployment)
+- [Services](#usage)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
