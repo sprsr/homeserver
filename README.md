@@ -69,9 +69,8 @@ Find whatever case fits your budget and needs, as there is no need to worry abou
 This case is quite expensive when compared to ebay finds, but planning to run my system with a passive cpu cooler so I want to ensure good airflow with excellent drive support. 
 </p>
 <h3> Choosing Drives: </h3> 
-<h4> My Pick: Fractal Node 804  (100$ USD) </h4>
-Find whatever case fits your budget and needs, as there is no need to worry about power consumption (obviously)  After running barebaones with no case for over a year on my home server cluster, I decided on the Fracal Node 804.  This is an old cube case with support for 10 3.5 drives and 2 2.5 drives. 
-This case is quite expensive when compared to ebay finds, but planning to run my system with a passive cpu cooler so I want to ensure good airflow with excellent drive support. 
+<h4> My Pick: 1TB Western Digital  Single Seagate 10TB 3.5  (~70$ USD) </h4>
+Too many home server builders load their system up with 
 </p>
 </p>
 
