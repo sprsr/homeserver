@@ -22,8 +22,8 @@
 
 ## 📝 Table of Contents
 - [About](#about)
-- [Server Hardware](#hardware)
-- [Server OS](#deployment)
+- [Server Hardware](#server_hardware)
+- [Server OS](#server_os)
 - [Services](#services)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
