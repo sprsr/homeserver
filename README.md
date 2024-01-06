@@ -26,6 +26,7 @@
 - [Server OS](#server_os)
 - [Server Services](#server_services)
 - [Clients](#clients)
+- [Automation](#automation)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
