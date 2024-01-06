@@ -27,7 +27,7 @@
 - [Server Services](#server_services)
 - [Clients](#clients)
 - [Automation](#automation)
-- [Privacy] (#privacy)
+- [Privacy](#privacy)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
