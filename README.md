@@ -24,7 +24,7 @@
 - [About](#about)
 - [Server Hardware](#server_hardware)
 - [Server OS](#server_os)
-- [Services](#services)
+- [Server Services](#server_services)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
