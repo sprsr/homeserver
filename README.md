@@ -23,7 +23,7 @@
 ## 📝 Table of Contents
 - [About](#about)
 - [Server Hardware](#hardware)
-- [OS](#deployment)
+- [Server OS](#deployment)
 - [Services](#services)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
