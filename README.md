@@ -25,6 +25,7 @@
 - [Server Hardware](#server_hardware)
 - [Server OS](#server_os)
 - [Server Services](#server_services)
+- [Clients](#clients)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
