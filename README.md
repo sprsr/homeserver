@@ -74,7 +74,10 @@ This case is quite expensive when compared to ebay finds, but planning to run my
 
 <h3> Choosing Drives: </h3> 
 <h4> My Pick: 1TB Western Digital SN730 (~$47)  Single Seagate 10TB 3.5  (~$70 USD) </h4>
-Too many home server builders load their system up with drives as soon as they build (Even some efficiency enthusiasts!).  I don't understand this, as you are simply wasting money and power.  I reccomend starting with a 1 TB NVME for your OS and File System for programs, followed by 2.5/3.5 Sata Drives that support your current needs.
+Too many home server builders load their system up with drives as soon as they build (Even some efficiency enthusiasts!).  I don't understand this, as you are simply wasting money and power.  I reccomend starting with a 1 TB NVME for your OS and File System for programs, followed by 2.5/3.5 Sata Drives that support your current needs. <br> <br>
+
+The hardware I chose was based on what I could find for a good used price, not neccesarily what I would build if I was purchasing new parts.  
+Below shows the cost and value of my build.  Note that I am migrating storage from my previous Home server, negating the paid price for drives.
 
 | Component                    | Paid Price | Market Value |
 | ---------------------------- | ---------- | ------------ |
