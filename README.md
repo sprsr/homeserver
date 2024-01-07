@@ -80,12 +80,19 @@ Too many home server builders load their system up with drives as soon as they b
   * Fractal Node 804 $100
   * 1 TB WD SN730 $47
   * Seagate 10TB 3.5 drive $70
+  * Total : 
   <br>
 </p>
-| Header 1 | Header 2 | Header 3 |
-| -------- | -------- | -------- |
-| Cell 1   | Cell 2   | Cell 3   |
-| Cell 4   | Cell 5   | Cell 6   |
+| Component                    | Paid Price | Market Value |
+| ---------------------------- | ---------- | ------------ |
+| i3 9100T                     |        $40 | $50          |
+| ASRock IMB-1214              |        $90 | ~$180        |
+| A-Tech 32GB DDR4 SO-DIMM RAM |        $50 | $50          |
+| EVGA 550 G2 80+ PSU          |        $49 | ~$80         |
+| Fractal Node 804             |       $100 | $140         |
+| 1TB WD SN730                 |          ~ | $70          |
+| 10TB Seagate 3.5 Drive       |          ~ | $180         |
+| Total:                       |       $244 | $750         |        
 
 
 
