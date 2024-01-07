@@ -75,8 +75,12 @@ Too many home server builders load their system up with drives as soon as they b
   Total Cost:
   * i3 9100T $40
   * ASRock IMB-1214 $90
-  * 
-  *
+  * A-Tech 32GB DDR4 SO-DIMM RAM $50
+  * EVGA 550 G2 80+ PSU $49
+  * Fractal Node 804 $100
+  * 1 TB WD SN730 $47
+  * Seagate 10TB 3.5 drive $70
+
 </p>
 
 
