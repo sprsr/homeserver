@@ -35,16 +35,7 @@
 Write about 1-2 paragraphs describing the purpose of your project.
 
 ## 🏁 Hardware <a name = "hardware"></a>
-| Component                    | Paid Price | Market Value |
-| ---------------------------- | ---------- | ------------ |
-| i3 9100T                     |        $40 | $50          |
-| ASRock IMB-1214              |        $90 | ~$180        |
-| A-Tech 32GB DDR4 SO-DIMM RAM |        $50 | $50          |
-| EVGA 550 G2 80+ PSU          |        $49 | ~$80         |
-| Fractal Node 804             |       $100 | $140         |
-| 1TB WD SN730                 |          ~ | $70          |
-| 10TB Seagate 3.5 Drive       |          ~ | $180         |
-| Total:                       |       $244 | $750         |    
+  
 List of Hardware: <br>
 <p align="center">
 <h3> Choosing A CPU: </h3> 
@@ -82,15 +73,16 @@ This case is quite expensive when compared to ebay finds, but planning to run my
 <h4> My Pick: 1TB Western Digital SN730 (~$47)  Single Seagate 10TB 3.5  (~$70 USD) </h4>
 Too many home server builders load their system up with drives as soon as they build (Even some efficiency enthusiasts!).  I don't understand this, as you are simply wasting money and power.  I reccomend starting with a 1 TB NVME for your OS and File System for programs, followed by 2.5/3.5 Sata Drives that support your current needs.
 </p>
-  Total Cost:
-  * i3 9100T $40
-  * ASRock IMB-1214 $90
-  * A-Tech 32GB DDR4 SO-DIMM RAM $50
-  * EVGA 550 G2 80+ PSU $49
-  * Fractal Node 804 $100
-  * 1 TB WD SN730 $47
-  * Seagate 10TB 3.5 drive $70
-  * Total : 
+| Component                    | Paid Price | Market Value |
+| ---------------------------- | ---------- | ------------ |
+| i3 9100T                     |        $40 | $50          |
+| ASRock IMB-1214              |        $90 | ~$180        |
+| A-Tech 32GB DDR4 SO-DIMM RAM |        $50 | $50          |
+| EVGA 550 G2 80+ PSU          |        $49 | ~$80         |
+| Fractal Node 804             |       $100 | $140         |
+| 1TB WD SN730                 |          ~ | $70          |
+| 10TB Seagate 3.5 Drive       |          ~ | $180         |
+| Total:                       |       $244 | $750         |  
   <br>
 </p>
     
