@@ -52,27 +52,30 @@ I was able to find a secondhand T Series processor.  T Series is Intel's attempt
 <h3> Choosing A CPU Cooler: </h3> 
 <h4> My Pick: Supermicro SNK-P0046P (10.50$ USD) </h4>
 This passive cooler should be sufficient for a low tdp quad core, however I am not 100% sure I will not need an active cooler.  Will update depending on my temps. 
-</p>
+
 <h3> Choosing A Motherboard: </h3> 
 <h4> My Pick: ASRock IMB-1214 Mini ITX Industrial Motherboard (90$ USD) </h4>
 Generally, Mini ITX Motherboards have far better consumption than any ATX variant.  In the perfect world, I would suggest always going with a non gaming mini ITX, however, due to the market for home server builds, it can be very difficult to find boards with 
 sufficient IO for a decent price. I searched for a C246 chipset mini ITX for weeks, and could find nothing under $100.  Eventually I stumbled across this Industrial Board on ebay and the seller accepted my lowball offer.  The IMB-1214 only has two sata ports, but it also has two M.2 M Key slots, which I plan on converting one to a Sata Hub if needed in the future. <br><br>
 If budget is non existant to you, the ideal motherboard would probably be a Fujitsu D36XXB series board that supports ECC.  These boards can have <5W idle consumption while supporting 6 sata ports.  However, due to enthusiasts you will struggle to find one of these boards alltogether, and will likely pay north of $300 for a 5+ year old cheap motherboard.  Avoid any gaming motherboards, as they typically have cutting edge features that consume more power. 
+
 <h3> Choosing Memory: </h3> 
 <h4> My Pick: A-Tech 32 GB DDR4 2666 MHz Laptop SO-DIMM RAM  (50$ USD) </h4>
 Ram does not play much of a role in Power Consumption thankfully, so feel free to choose whatever you can find for cheapest. My Industrial Motherboard supports 64GB of 2666 MHz SO-DIMM Ram, so I chose a single stick for potential future upgrades.  The services I will run 24/7 will consume less than 8GB at max load, leaving plenty of free ram for future additions and workstation use. If you plan on sticking with the spirit of my build, focused in efficiency, it is best to avoid any RGB gaming ram to save a watt or two.
+
 <h3> Choosing a Power Supply: </h3> 
 <h4> My Pick: EVGA SuperNova 550 G2 80+ ECO Mode PSU  (49$ USD) </h4>
 For absolute best efficiency, it is best to use a PicoPSU.  I reccomend sticking with the three official models of PicoPSU (80W, 90W, 160W). My ARM server cluster ran on a 160W PicoPSU with 4 M.2 Drives and Three Sata Drives with no issues.  Using a Standard ATX Power Supply, we will see less efficiency at idle.  Even Gold rated 80+ efficiency ATX PSUs such as my selection are usually only at 70% efficiency in the best case scenario at 10% load.  The 80+ efficiency rating is only relevant above 20% load.  My choice to chose an ATX is because of my large case selection, future proofing for a large amount of disc drives, and somewhat experimental.  I may swap the ATX out with a PSU if my results are less than desireable. 
+
 <h3> Choosing a Case: </h3> 
 <h4> My Pick: Fractal Node 804  (100$ USD) </h4>
 Find whatever case fits your budget and needs, as there is no need to worry about power consumption (obviously)  After running barebaones with no case for over a year on my home server cluster, I decided on the Fracal Node 804.  This is an old cube case with support for 10 3.5 drives and 2 2.5 drives. 
 This case is quite expensive when compared to ebay finds, but planning to run my system with a passive cpu cooler so I want to ensure good airflow with excellent drive support. 
-</p>
+
 <h3> Choosing Drives: </h3> 
 <h4> My Pick: 1TB Western Digital SN730 (~$47)  Single Seagate 10TB 3.5  (~$70 USD) </h4>
 Too many home server builders load their system up with drives as soon as they build (Even some efficiency enthusiasts!).  I don't understand this, as you are simply wasting money and power.  I reccomend starting with a 1 TB NVME for your OS and File System for programs, followed by 2.5/3.5 Sata Drives that support your current needs.
-</p>
+
 | Component                    | Paid Price | Market Value |
 | ---------------------------- | ---------- | ------------ |
 | i3 9100T                     |        $40 | $50          |
