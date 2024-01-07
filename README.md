@@ -81,12 +81,13 @@ Too many home server builders load their system up with drives as soon as they b
   * 1 TB WD SN730 $47
   * Seagate 10TB 3.5 drive $70
   <br>
+</p>
 | Header 1 | Header 2 | Header 3 |
 | -------- | -------- | -------- |
 | Cell 1   | Cell 2   | Cell 3   |
 | Cell 4   | Cell 5   | Cell 6   |
 
-</p>
+
 
 
 
