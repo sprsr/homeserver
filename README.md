@@ -35,6 +35,16 @@
 Write about 1-2 paragraphs describing the purpose of your project.
 
 ## 🏁 Hardware <a name = "hardware"></a>
+| Component                    | Paid Price | Market Value |
+| ---------------------------- | ---------- | ------------ |
+| i3 9100T                     |        $40 | $50          |
+| ASRock IMB-1214              |        $90 | ~$180        |
+| A-Tech 32GB DDR4 SO-DIMM RAM |        $50 | $50          |
+| EVGA 550 G2 80+ PSU          |        $49 | ~$80         |
+| Fractal Node 804             |       $100 | $140         |
+| 1TB WD SN730                 |          ~ | $70          |
+| 10TB Seagate 3.5 Drive       |          ~ | $180         |
+| Total:                       |       $244 | $750         |    
 List of Hardware: <br>
 <p align="center">
 <h3> Choosing A CPU: </h3> 
@@ -83,16 +93,7 @@ Too many home server builders load their system up with drives as soon as they b
   * Total : 
   <br>
 </p>
-| Component                    | Paid Price | Market Value |
-| ---------------------------- | ---------- | ------------ |
-| i3 9100T                     |        $40 | $50          |
-| ASRock IMB-1214              |        $90 | ~$180        |
-| A-Tech 32GB DDR4 SO-DIMM RAM |        $50 | $50          |
-| EVGA 550 G2 80+ PSU          |        $49 | ~$80         |
-| Fractal Node 804             |       $100 | $140         |
-| 1TB WD SN730                 |          ~ | $70          |
-| 10TB Seagate 3.5 Drive       |          ~ | $180         |
-| Total:                       |       $244 | $750         |        
+    
 
 
 
