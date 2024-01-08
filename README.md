@@ -92,8 +92,8 @@ Below shows the cost and value of my build.  Note that I am migrating storage fr
   <br>
 <h3> Other Recommendations: </h3> 
 Intel N100 Motherboard <br>
-Intel N5105 Motherboard
-Any N100/N5105 Nuc or Mini PC with sufficent expandable storage
+Intel N5105 Motherboard <br>
+Any N100/N5105 Nuc or Mini PC with sufficent expandable storage <br>
 
 </p>
     
