@@ -66,7 +66,7 @@ Ram does not play much of a role in Power Consumption thankfully, so feel free t
 <h3> Choosing a Power Supply: </h3> 
 <h4> My Pick: EVGA SuperNova 550 G2 80+ ECO Mode PSU  (49$ USD) </h4>
 For absolute best efficiency, it is best to use a PicoPSU.  I reccomend sticking with the three official models of PicoPSU (80W, 90W, 160W). My ARM server cluster ran on a 160W PicoPSU with 4 M.2 Drives and Three Sata Drives with no issues.  Using a Standard ATX Power Supply, we will see less efficiency at idle.  Even Gold rated 80+ efficiency ATX PSUs such as my selection are usually only at 70% efficiency in the best case scenario at 10% load.  The 80+ efficiency rating is only relevant above 20% load.  My choice to chose an ATX is because of my large case selection, future proofing for a large amount of disc drives, and somewhat experimental.  I may swap the ATX out with a PSU if my results are less than desireable. 
-<h4> My Pick: UPDATE: After recieving my hardware, I realize that despite the motherboard claiming ATX support, it needs a 19V 4 pin connection or barrel plug.  I'm unsure how to achive a 19V with an ATX supply.  (49$ USD) </h4>
+<h4> My Pick: UPDATE: After recieving my hardware, I realize that despite the motherboard claiming ATX support, it needs a 19V 4 pin connection or barrel plug.  I'm unsure how to achive a 19V with an ATX supply. </h4>
 
 <h3> Choosing a Case: </h3> 
 <h4> My Pick: Fractal Node 804  (100$ USD) </h4>
