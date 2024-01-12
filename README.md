@@ -48,7 +48,11 @@ The intention is to utilize Quick Sync Video for Media Streaming transcoding. An
 - 9th Gen: Intel Arc Alchemist (discrete GPUs) adds 8K 10-bit AV1 hardware encoding. <br><br>
 I was able to find a secondhand T Series processor.  T Series is Intel's attempt at 'low-power desktop processors'.  However, these chips simply have a limited TDP.  This will rarely affect power consumption in our usecase, and likely never affect our idle consumption, however it can provide some peace of mind knowing your chips TDP when under load. I reccomend to use what ever Intel Gen 7-9 Chip you can find for a good price on Ebay. It is debatable whether Quad Core i3 chips have better idle consumption than other chips of the same generation, and even some of the most efficient machines recorded have been sporting i5 chips. 
 </p>
-<p align="center">
+
+
+<h3> CPU Recomendations: </h3> 
+If you want 
+
 <h3> Choosing A CPU Cooler: </h3> 
 <h4> My Pick: Supermicro SNK-P0046P (10.50$ USD) </h4>
 This passive cooler should be sufficient for a low tdp quad core, however I am not 100% sure I will not need an active cooler.  Will update depending on my temps. 
