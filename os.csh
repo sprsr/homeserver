@@ -5,3 +5,4 @@ cat /sys/firmware/efi/fw_platform_size #64 - UEFI 64bit
 ip link # view network
 ping archlinux.org # test connection
 timedatectl # update clock
+fdisk -l # list drives
