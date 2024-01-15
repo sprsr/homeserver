@@ -65,7 +65,7 @@ If budget is non existant to you, the ideal motherboard would probably be a Fuji
 
 <h3> Choosing Memory: </h3> 
 <h4> My Pick: A-Tech 32 GB DDR4 2400 MHz ECC DIMM RAM  (40$ USD) </h4>
-Ram does not play much of a role in Power Consumption thankfully, so feel free to choose whatever you can find for cheapest. My Industrial Motherboard supports 64GB of 2666 MHz SO-DIMM Ram, so I chose a single stick for potential future upgrades.  The services I will run 24/7 will consume less than 8GB at max load, leaving plenty of free ram for future additions and workstation use. If you plan on sticking with the spirit of my build, focused in efficiency, it is best to avoid any RGB gaming ram to save a watt or two.
+Ram does not play much of a role in Power Consumption thankfully, so feel free to choose whatever you can find for cheapest. My Motherboard supports 64 GB ECC DDR4 DIMM Ram, so I chose two sticks for 32GB to allow potential future upgrades.  The services I will run 24/7 will consume less than 8GB at max load, leaving plenty of free ram for future additions and workstation use. If you plan on sticking with the spirit of my build, focused in efficiency, it is best to avoid any RGB gaming ram to save a watt or two.
 
 <h3> Choosing a Power Supply: </h3> 
 <h4> My Pick: 90Watt 19V DC Barrel Plug (5.5mm) (16$ USD) </h4>
