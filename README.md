@@ -86,9 +86,9 @@ Below shows the cost and value of my build.  Note that I am migrating storage fr
 | Component                    | Paid Price | Market Value |
 | ---------------------------- | ---------- | ------------ |
 | i3 9100T                     |        $40 | $50          |
-| ASRock IMB-1214              |        $90 | ~$180        |
-| A-Tech 32GB DDR4 SO-DIMM RAM |        $50 | $50          |
-| 19V 90 Watt PSU              |        $16 | $16          |
+| SuperMicro C246 Micro ATX    |        $90 | ~$180        |
+| 32GB DDR4 ECC DIMM RAM       |        $40 | $40          |
+| 550 Watt PSU                 |        $40 | $80          |
 | Fractal Node 804             |       $100 | $140         |
 | 1TB WD SN730                 |          ~ | $70          |
 | 10TB Seagate 3.5 Drive       |          ~ | $180         |
