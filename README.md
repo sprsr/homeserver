@@ -99,7 +99,7 @@ Intel N100 Motherboard <br>
 Intel N5105 Motherboard <br>
 Any N100/N5105 Nuc or Mini PC with sufficent expandable storage <br>
 </p>
-## Server Operating System <a name = "hardware"></a>
+## Server Operating System <a name = "server_os"></a>
 
 
 
