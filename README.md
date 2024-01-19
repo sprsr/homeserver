@@ -113,7 +113,7 @@ Any N100/N5105 Nuc or Mini PC with sufficent expandable storage <br>
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@sprsr](https://github.com/sprsr)
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
