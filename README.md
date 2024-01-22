@@ -39,7 +39,7 @@ Write about 1-2 paragraphs describing the purpose of your project.
 List of Hardware: <br>
 <p align="center">
 <h3> Choosing A CPU: </h3> 
-<h4> My Pick: Intel i3 9100T (40$ USD) </h4>
+<h4> My Pick: Intel i3 7100 (10$ USD) </h4>
 A good starting point is by evaluating other efficient systems.  It can be painful to find good power efficiency information online.  [This System Database](https://docs-google-com.translate.goog/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp&_x_tr_hist=true#gid=0) is the best resource I could find for comparing results of other systems.  You will notice that the majority of the most efficient systems recorded are a mix of Intel Core, Pentium, Celeron and Xeon Chips. <br>
 Intel LGA 1151 Chips are a good balance of efficiency while performant.  Unless you plan to use a GPU in your system, make sure to avoid F Series Chips. 
 The intention is to utilize Quick Sync Video for Media Streaming transcoding. Any Intel Series 7, 8, or 9 chip should be sufficiently powerful for most needs. <br><br>
