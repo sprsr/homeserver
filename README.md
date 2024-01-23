@@ -85,7 +85,7 @@ Below shows the cost and value of my build.  Note that I am migrating storage fr
 
 | Component                    | Paid Price | Market Value |
 | ---------------------------- | ---------- | ------------ |
-| i3 9100T                     |        $40 | $50          |
+| i3 7100                      |        $40 | $50          |
 | SuperMicro C246 Micro ATX    |        $90 | ~$180        |
 | 32GB DDR4 ECC DIMM RAM       |        $40 | $40          |
 | 550 Watt PSU                 |        $40 | $80          |
