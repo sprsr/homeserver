@@ -101,6 +101,7 @@ Any N100/N5105 Nuc or Mini PC with sufficent expandable storage <br>
 </p>
 ## Server Operating System <a name = "server_os"></a>
 
+Operating System Arch Linux
 
 
 
