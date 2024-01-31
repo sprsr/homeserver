@@ -24,6 +24,7 @@
 - [About](#about)
 - [Server Hardware](#server_hardware)
 - [Server OS](#server_os)
+- [OS Setup](#os_setup)
 - [Server Services](#server_services)
 - [Clients](#clients)
 - [Automation](#automation)
@@ -105,6 +106,8 @@ Operating System Arch Linux
 
 
 
+## 🧐 OS Setup & Prerequisites<a name = "os_setup"></a>
+Write about 1-2 paragraphs describing the purpose of your project.
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
