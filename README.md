@@ -52,7 +52,7 @@ T Series is Intel's attempt at 'low-power desktop processors'.  However, these c
 
 
 <h3> CPU Recomendations: </h3> 
-If you want 
+
 
 <h3> Choosing A CPU Cooler: </h3> 
 <h4> My Pick: Supermicro SNK-P0046P (10.50$ USD) </h4>
